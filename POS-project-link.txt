@@ -1,0 +1,44 @@
+Apart from the three smaller projects I have listed in this repo, 
+I have one larger project I would like to share:
+
+https://github.com/kalebolson/602POS-KNR
+
+
+As this was a group effort, I am keeping information specific to myself within this file.
+This is a POS system designed for a small scale supermarket. It stores data in .txt files
+in an effort to keep information consistent when the program is terminated and run again.
+It also utilizes a swing UI. 
+
+The project directory itself is the 'POSSystem' directory, while other files pertaining to 
+the project's development are stored in the '602POS-KNR' directory. 
+
+I was tasked with writing most of the back end, while the rest of the team worked largely 
+on the UI.
+
+I personally wrote roughly 80% of the content in the following files (within /POSSystem/src/):
+Store.java
+Register.java
+Cashier.java
+Shift.java
+Event.java
+
+
+
+
+|-------------------------|
+|END-USER INSTRUCTIONS:   |
+|-------------------------|
+In order to run this program, you'll need to run AppFrame.java (this contains the UI).
+Log in with either of the following sets of credentials:
+--------------------------------------------------
+*ADMINISTRATOR*
+ID: 0
+Password: masterpassword
+--------------------------------------------------
+*CASHIER*
+ID: 1
+Password: asdf
+--------------------------------------------------
+
+The administrator menu is quite different from the cashier menu, so be sure to log in
+with both profiles to see the whole program.
