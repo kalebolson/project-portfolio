@@ -1,0 +1,15 @@
+____________________________________________________________________________________________
+| Finance Calculator 1.0                                                                   |
+|__________________________________________________________________________________________|
+|                                                                                          |
+| Calculating APR. Please enter the following data                                         |
+|                                                                                          |
+|   1   Enter Monthly Amount                                                               |
+|   2   Enter Number of Months                                                             |
+|   3   Enter Principal Amount                                                             |
+|   4   Display Calculated APR                                                             |
+|   5   Save Result                                                                        |
+|   X   Exit to Main Menu                                                                  |
+|__________________________________________________________________________________________|
+
+Selection:	

@@ -1,0 +1,15 @@
+____________________________________________________________________________________________
+| Finance Calculator 1.0                                                                   |
+|__________________________________________________________________________________________|
+|                                                                                          |
+| Please select one of the following options                                               |
+|                                                                                          |
+|   1   Calculate Monthly Amount                                                           |
+|   2   Calculate APR                                                                      |
+|   3   Calculate Number of Months                                                         |
+|   4   Calculate Principal Amount                                                         |
+|   5   Print All Saved Results                                                            |
+|   X   Exit the Application                                                               |
+|__________________________________________________________________________________________|
+
+Selection:	
